@@ -1,0 +1,24 @@
+# .gitignore dosyası
+
+# Docker build tarafından oluşturulan dosyalar
+.dockerignore
+
+# Sanal ortam dosyaları
+venv/
+
+# Ara dosyalar ve dosyalar
+*.pyc
+*.pyo
+*~
+.DS_Store
+
+# Build çıktıları
+build/
+dist/
+
+# Test dosyaları
+.pytest_cache/
+.coverage
+
+# Belgelendirme dosyaları
+docs/
