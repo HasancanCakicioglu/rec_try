@@ -1,6 +1,7 @@
 # test_my_script.py
 
-from src.main import *
+from src.main import print_hi
+
 
 def test_print_hi():
     result = print_hi('PyCharm', 10, 20)
