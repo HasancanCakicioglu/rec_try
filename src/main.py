@@ -5,7 +5,7 @@ def print_hi(name,a,b):
     return a*b
 
 
-# Press the green button in the gutter to run the script.
+# Press the green button in the gutter to run the script.dene
 if __name__ == '__main__':
     result = print_hi('PyCharm',10,20)
     print(result)
