@@ -1,7 +1,5 @@
 # .gitignore dosyası
 
-# Docker build tarafından oluşturulan dosyalar
-.dockerignore
 
 # Sanal ortam dosyaları
 venv/
